@@ -1,4 +1,4 @@
-var marky = require('./')
+var marky = require('.')
 
 // Clean up a regular old markdown string
 marky("# hello, I'm markdown").html()
